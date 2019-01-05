@@ -7,7 +7,7 @@ public class FirstServlet extends HttpServlet {
 
   public void doGet(HttpServletRequest request, HttpServletResponse response)
 		  throws ServletException, IOException{
-
+////lkkkk
 	response.setContentType("text/html");
 	PrintWriter out = response.getWriter();
 		
